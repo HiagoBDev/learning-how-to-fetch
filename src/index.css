@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: #1C1678;
+  font-family: "Inter";
+  overflow-x: hidden;
+}
